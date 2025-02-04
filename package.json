@@ -1,15 +1,15 @@
 {
   "name": "@oceanwave/core",
   "description": "Core Modules for OCEANWAVE App",
-  "version": "0.0.1",  
+  "version": "0.0.2",
   "author": "orbitgw <orbitgw@foxmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/oceanwavejs/oceanwave-core#readme",
   "main": "index.mjs",
   "types": "typings/index.d.mts",
   "type": "module",
-  "engines":{
-    "node":">=18.20.4"
+  "engines": {
+    "node": ">=18.20.4"
   },
   "scripts": {
     "build:dts": "tsc",
@@ -23,7 +23,7 @@
     "oceanwave",
     "oceanwave-core"
   ],
-  "files":[
+  "files": [
     "lib",
     "docs",
     "typings",
