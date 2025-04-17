@@ -13,6 +13,7 @@
   },
   "scripts": {
     "build:dts": "tsc",
+    "build:changelog":"conventional-changelog -p angular -i CHANGELOG.md -s -u -r 0",
     "clean": "rm -rf ./test/logs"
   },
   "keywords": [
@@ -27,7 +28,7 @@
     "lib",
     "docs",
     "typings",
-    "index.mjs",
+    "index.js",
     "README.md",
     "LICENSE"
   ],
