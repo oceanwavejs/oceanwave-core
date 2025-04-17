@@ -1,7 +1,7 @@
 {
   "name": "@oceanwave/core",
   "description": "Core Modules for OCEANWAVE App",
-  "version": "0.0.2",
+  "version": "0.1.0-alpha",
   "author": "orbitgw <orbitgw@foxmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/oceanwavejs/oceanwave-core#readme",
@@ -13,7 +13,7 @@
   },
   "scripts": {
     "build:dts": "tsc",
-    "build:changelog":"conventional-changelog -p angular -i CHANGELOG.md -s -u -r 0",
+    "build:changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -u -r 0",
     "clean": "rm -rf ./test/logs"
   },
   "keywords": [
