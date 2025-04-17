@@ -1,8 +1,12 @@
 # OCEANWAVE CORE
 
-Core Modules for OCEANWAVE Apps.
+Core Modules for OCEANWAVE Projects.
+
+## Notice
+> The package is still under development. Everything has the potential to change.
 
 ## Install
+### NPM Install
 ```bash
 npm i oceanwave@core
 ```
@@ -17,13 +21,8 @@ core.app.main(()=>{
 })
 ```
 
-## API References
-
-*TODO*
-
-
 ## License
-MIT
+MIT License
 
 ***
 © 2023-2025 orbitgw <orbitgw@foxmail.com>

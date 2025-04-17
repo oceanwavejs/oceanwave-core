@@ -1,6 +1,7 @@
 {
-  "include": ["lib/*.mjs","index.mjs"],
+  "include": ["lib/*.js","index.js"],
   "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
     "allowJs": true,
     "declaration": true,
     "emitDeclarationOnly": true,

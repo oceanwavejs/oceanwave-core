@@ -5,8 +5,8 @@
   "author": "orbitgw <orbitgw@foxmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/oceanwavejs/oceanwave-core#readme",
-  "main": "index.mjs",
-  "types": "typings/index.d.mts",
+  "main": "index.js",
+  "types": "typings/index.d.ts",
   "type": "module",
   "engines": {
     "node": ">=18.20.4"
