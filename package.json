@@ -1,7 +1,7 @@
 {
   "name": "@oceanwave/core",
   "description": "Core Modules for OCEANWAVE App",
-  "version": "0.1.0-alpha",
+  "version": "0.1.0-rc",
   "author": "orbitgw <orbitgw@foxmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/oceanwavejs/oceanwave-core#readme",
